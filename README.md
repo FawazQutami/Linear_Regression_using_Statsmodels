@@ -1,6 +1,5 @@
-# Linear Regression
-Linear Regression Using Gradient Descent
+# Linear Regression Using Statsmodels
 
 - Read more about [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- Read more about [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
+- Read more about [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
